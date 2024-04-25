@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = https://github.com/NehaAnalyticsHub/Mlops_20i-0677_Task6.git
